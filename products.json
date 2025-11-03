@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "에코 머그컵",
+    "title": "에코 머그컵" ,
     "price": 9900,
     "image": "imgs/img_01.jpg",
     "category": "kitchen",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "title": "미니 선풍기",
+    "title": "미니 선풍기" ,
     "price": 14900,
     "image": "imgs/img_02.jpg",
     "category": "home",
