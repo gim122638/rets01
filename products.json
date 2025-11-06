@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "title": "미니 선풍기" ,
+    "title": "휴대용 미니 선풍기" ,
     "price": 14900,
     "image": "imgs/img_02.jpg",
     "category": "home",
@@ -38,5 +38,45 @@
     "image": "imgs/img_05.jpg",
     "category": "digital",
     "desc": "고음질 사운드와 안정적인 연결, 장시간 착용에도 편안한 무선 이어폰."
+  },
+  {
+    "id": 6,
+    "title": "대용량 퍼퓸 디푸저",
+    "price": 17900,
+    "image": "imgs/img_06.jpg",
+    "category": "home",
+    "desc": "대용량으로 나만의 공간을 풍성한 향기로 채우고 더욱 오래 유지되는 발향력."
+  },
+  {
+    "id": 7,
+    "title": "극손상모용 헤어트리트먼트",
+    "price": 8900,
+    "image": "imgs/img_07.avif",
+    "category": "restroom",
+    "desc": "펌,염색,드라이와 고데기 등으로 갈라지고 끊어지는 빗자루 극손상 모발을 집중 관리하게 부드럽게 개선."
+  },
+  {
+    "id": 8,
+    "title": "다용도 화장품 정리함",
+    "price": 9900,
+    "image": "imgs/img_08.jpg",
+    "category": "home",
+    "desc": "칸막이형 수납과 서랍형 수납을 조합해놓은 실용적이고 심플한 화정품 정리함."
+  },
+  {
+    "id": 9,
+    "title": "안개분사 분무기",
+    "price": 1900,
+    "image": "imgs/img_09.png",
+    "category": "home",
+    "desc": "더 넓고 더 강력하게 초미세 분사로 사용이 편리한 안개분사 분무기"
+  },
+  {
+    "id": 10,
+    "title": "립앤아이 리무버",
+    "price": 3900,
+    "image": "imgs/img_10.jpg",
+    "category": "cosmetics",
+    "desc": "진한 메이크업도 깔끔하게 지워주는 포인트 메이크업 전용 립앤아이 리무버"
   }
 ]
